@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on the automated detection and segmentation of oral tumors in 3D images using MONAI's SegResNet. 
 
-### The goal is to create a model capable of accurately identifying and segmenting tumor regions in medical images, aiding in early diagnosis and treatment planning
+#### The goal is to create a model capable of accurately identifying and segmenting tumor regions in medical images, aiding in early diagnosis and treatment planning.
 
 ### Relevant Medical Explanations
 Heart diseases are one of the leading causes of mortality worldwide, often resulting from a combination of genetic and environmental factors. Early identification of heart disease risks can improve quality of life and reduce mortality. Machine learning models can detect complex patterns in medical data and support medical decision-making.

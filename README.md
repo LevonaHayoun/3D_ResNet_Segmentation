@@ -5,7 +5,7 @@ This project focuses on the automated detection and segmentation of oral tumors 
 
 #### The goal is to create a model capable of accurately identifying and segmenting tumor regions in medical images, aiding in early diagnosis and treatment planning.
 
-### Relevant Medical Explanations
+## Relevant Medical Explanations
 Heart diseases are one of the leading causes of mortality worldwide, often resulting from a combination of genetic and environmental factors. Early identification of heart disease risks can improve quality of life and reduce mortality. Machine learning models can detect complex patterns in medical data and support medical decision-making.
 
 ## Data Preparation
@@ -19,7 +19,7 @@ Tumor regions are visualized to confirm the correctness of the data preparation.
 ## Data Division
 The data used in this project was divided into a training set and a testing set in a 80:20 ratio.
 
-### Model Performance
+## Model Performance
 The model achieved a mean dice of 85% on test samples. Hopefully, with an expended dataset and optimizimg model features we will get better performances.
 
 ## Conclusions

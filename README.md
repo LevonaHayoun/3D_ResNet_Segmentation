@@ -6,7 +6,8 @@ Last modified: 2024/01/03
 Description: BigTransfer (BiT) State-of-the-art transfer learning for image classification.
 
 ## Overview
-This project focuses on the automated detection and segmentation of oral tumors in 3D images using MONAI's SegResNet. /n
+This project focuses on the automated detection and segmentation of oral tumors in 3D images using MONAI's SegResNet. 
+
 ###The goal is to create a model capable of accurately identifying and segmenting tumor regions in medical images, aiding in early diagnosis and treatment planning
 
 ### Project Objective

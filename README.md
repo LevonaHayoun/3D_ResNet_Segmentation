@@ -1,11 +1,5 @@
 # Automated Detection andSegmentation of Oral Tumors using 3D SegResNet 
 
-## Credits
-- Developer: Levona Hayoun
-- Supervisors: Dr. Moshe Amitai & Dr. Talya Yeshua
-- Data Source: Hadassah Eun Kerem hospital
-- Description: Oral Tumors Dtection using SegResNet.
-
 ## Overview
 This project focuses on the automated detection and segmentation of oral tumors in 3D images using MONAI's SegResNet. 
 
@@ -30,3 +24,10 @@ The model achieved a mean dice of 85% on test samples. Hopefully, with an expend
 
 ## Conclusions
 This project successfully identifies abnormal tumor regions. By leveraging MONAI’s SegResNet, we achieved accurate segmentation results, as demonstrated by the high Dice coefficient scores and the genrated label for given image. (As shown in the 'Check_model' notebook)
+
+
+## Credits
+- Developer: Levona Hayoun
+- Supervisors: Dr. Moshe Amitai & Dr. Talya Yeshua
+- Data Source: Hadassah Eun Kerem hospital
+- Description: Oral Tumors Dtection using SegResNet.

@@ -6,7 +6,12 @@ This project focuses on the automated detection and segmentation of oral tumors 
 #### The goal is to create a model capable of accurately identifying and segmenting tumor regions in medical images, aiding in early diagnosis and treatment planning.
 
 ## Relevant Medical Explanations
-Heart diseases are one of the leading causes of mortality worldwide, often resulting from a combination of genetic and environmental factors. Early identification of heart disease risks can improve quality of life and reduce mortality. Machine learning models can detect complex patterns in medical data and support medical decision-making.
+The primary medical challenge is the low awareness and infrequency of screenings for oral cancer, which often results in late detection when the disease is less treatable. Dental imaging, routinely performed before procedures like implants or extractions, often captures early signs of oral tumors. However, these signs are frequently overlooked due to the lack of focused attention on non-targeted areas in the scans. This oversight can lead to missed early diagnosis opportunities, significantly affecting patient outcomes.
+
+
+Using the developed system we are capable of detecting tumors at various stages and providing immediate alerts, regardless of lesion size, location, image resolution, or device type. When a tumor is detected, it is highlighted and flagged for further examination.
+
+#### This system could save lives by drawing attention to potentially overlooked abnormal areas in scanned images.
 
 ## Data Preparation
 ### 1. Convert DICOM to NIfTI: 
@@ -28,6 +33,6 @@ This project successfully identifies abnormal tumor regions. By leveraging MONAI
 
 ## Credits
 - Developer: Levona Hayoun
-- Supervisors: Dr. Moshe Amitai & Dr. Talya Yeshua
+- Supervisors: Dr. Talya Yeshua & Dr. Moshe Amitai  
 - Data Source: Hadassah Eun Kerem hospital
 - Description: Oral Tumors Dtection using SegResNet.

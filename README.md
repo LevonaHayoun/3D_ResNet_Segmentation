@@ -34,5 +34,5 @@ This project successfully identifies abnormal tumor regions. By leveraging MONAI
 ## Credits
 - Developer: Levona Hayoun
 - Supervisors: Dr. Talya Yeshua & Dr. Moshe Amitai  
-- Data Source: Hadassah Eun Kerem hospital
+- Data Source: Hadassah Ein Kerem hospital
 - Description: Oral Tumors Dtection using SegResNet.
